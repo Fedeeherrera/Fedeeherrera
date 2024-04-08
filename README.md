@@ -5,7 +5,7 @@
 ```js
  {
    “role” : “Frontend Developer”,
-   “liks” :
+   “links” :
      {
       "Linkedin" : "https://www.linkedin.com/in/fedeherreracaputo/",
      }
