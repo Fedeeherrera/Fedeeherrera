@@ -16,6 +16,6 @@
 <h4>👨🏻‍💻 Frontend Developer 👨🏻‍💻</h4>
  <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,wordpress,tailwind,astro,git,firebase,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,wordpress,tailwind,astro,git,firebase,vite, nest" />
   </a>
 </p>
